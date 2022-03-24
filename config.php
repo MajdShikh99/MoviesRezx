@@ -2,16 +2,16 @@
 
 //URL PROJECT
  
-define ('_SITE_URL', 'http://localhost');
+define ('_SITE_URL', 'https://rezxmo.herokuapp.com');
 
 //DATABASE CONFIGURATION 
 
 $database = array(
 
-'host' => "localhost",
-'db' => "rezx",
-'user' => "root",
-'pass' => ""
+'host' => "sql113.epizy.com",
+'db' => "RezxMC",
+'user' => "epiz_30974291",
+'pass' => "H2jV6snuaEiBNFi"
 
 );
 
