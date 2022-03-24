@@ -2,7 +2,7 @@
 
 //URL PROJECT
  
-define ('_SITE_URL', 'https://rezxmo.herokuapp.com');
+define ('_SITE_URL', 'http://rezxmo.herokuapp.com');
 
 //DATABASE CONFIGURATION 
 
